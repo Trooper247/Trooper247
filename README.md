@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trooper247
 - 👀 I’m interested in PLC, Arduino, Python, Robotics and mead making.
 - 🌱 I’m currently learning SIEMENS HMI.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...nah I'm not. Too busy with studies and full time job guys.
 - 📫 If You want to reach out to me, then feel free to send me a message here, on GitHub.
 
 <!---
