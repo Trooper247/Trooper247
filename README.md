@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trooper247
+- 👋 Hi, It's Oskar. Nice to meet You!
 - 👀 I’m interested in PLC, Arduino, Python, Robotics and mead making.
 - 🌱 I’m currently learning SIEMENS SCL.
 - 💞️ I’m looking to collaborate on ...nah I'm not. Too busy with studies and full time job guys.
