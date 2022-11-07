@@ -1,7 +1,6 @@
-- 👋 Hi, It's Oskar. Nice to meet You!
-- 👀 I’m interested in PLC, Arduino, Python, Robotics and mead making.
-- 🌱 I’m currently learning SIEMENS SCL.
-- 💞️ I’m looking to collaborate on ...nah I'm not. Too busy with studies and full time job guys.
+- 👋 Hi, my name's Oskar. Nice to meet You!
+- 👀 I’m interested in Arduino/ESP, Python, Industrial Automation and mead making.
+- 🌱 I’m currently studying and working full time :).
 - 📫 If You want to reach out to me, then feel free to send me a message here, on GitHub.
 
 <!---
